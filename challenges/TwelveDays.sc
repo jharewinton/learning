@@ -1,0 +1,1 @@
+(1 to 12).fold(0)((acc, x) => acc + (1 to x).sum)
